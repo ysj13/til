@@ -4,8 +4,7 @@
 PRG(Post/Redirect/Get) 패턴은 중복 양식 제출을 방지하는 웹 개발 디자인 패턴이다.
 이름 그대로 HTTP Post 요청에 대한 응답이 또 다른 URL로의 Get 요청을 위한 Redirect 여야 한다는 것을 의미한다.
 
-![image](https://github.com/ysj13/til/assets/59955248/7899d627-fff4-4ee9-9987-bebb48084bb0)
-  https://media.vlpt.us/images/maketheworldwise/post/77c362d7-6351-4c17-8551-c06bc2e19341/image.png
+![image](https://github.com/ysj13/til/assets/59955248/6f69908f-1661-408d-ae13-d0fd493c044a)
 
 ## PRG 패턴을 사용해야 하는 이유
 1. 웹 양식(form) 을 HTTP Post 요청을 통해 서버에 제출한 후

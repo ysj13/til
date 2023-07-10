@@ -1,4 +1,4 @@
-## Post-Redirect-Get(PRG) 
+# Post-Redirect-Get(PRG) 
 
 ## PRG 패턴이란?
 PRG(Post/Redirect/Get) 패턴은 중복 양식 제출을 방지하는 웹 개발 디자인 패턴이다.
